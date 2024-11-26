@@ -1,8 +1,27 @@
-# React + Vite
+Meme Generator
+A React-based application that allows users to create custom memes by adding text overlays to images and download them easily. This project was built as part of a learning journey on Scrimba, with the added feature of downloading the created memes.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Features
+Fetch images from an APi.
+Add customizable top and bottom text to images.
+Automatic text wrapping for better appearance.
+Download the generated meme as a PNG file.
+Technologies Used
+React: For building the user interface.
+Canvas API: For rendering images and text overlays on the canvas.
+Live Demo
+Check out the live version here: meme-generator-35o.pages.dev
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Inspiration
+This project was created as part of my learning journey on Scrimba. I added the download feature to make the app more functional and user-friendly.
+
+Contribution
+Contributions are welcome! If you have suggestions or want to add new features, feel free to fork the repository and submit a pull request.
+
+License
+This project is licensed under the MIT License.
+
+Acknowledgments
+Scrimba for their amazing tutorials.
+The React community for helpful resources.
