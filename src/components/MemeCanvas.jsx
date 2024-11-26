@@ -86,7 +86,7 @@ export default function MemeCanvas({ meme }) {
 
   return (
     <>
-      <canvas ref={canvasRef} style={{ display: "nonegi" }}></canvas>
+      <canvas ref={canvasRef} style={{ display: "none" }}></canvas>
       <button onClick={downloadMeme} className="Form_button gradient download">
         Download Meme
       </button>
